@@ -5,9 +5,21 @@ A fullstack web application for registering and managing user profiles with role
 📁 **Repository**: [github.com/bati58/UserRegistrationFormat](https://github.com/bati58/UserRegistrationFormat)
 
 ---
+
 ## 🌐 Live Demo
 
-👉 [Click here to open the registration form]( https://bati58.github.io/UserRegistrationFormat/)
+👉 [Open the registration form in browser](https://bati58.github.io/UserRegistrationFormat/frontend/index.html)
+
+> This link uses GitHub Pages to preview your form directly in the browser.
+
+---
+
+## 🖼 Registration Form UI
+
+Attach your screenshot to this path in your repo:
+
+![Registration Form](Screenshot 2025-11-05 000229.png)
+
 
 
 ## 🚀 Features
