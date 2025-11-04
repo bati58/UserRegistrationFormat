@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>User Registration</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page-wrapper">
+    <button class="toggle-btn" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+
+    <div class="form-container">
+      <form id="userForm">
+        <h2>Register User</h2>
+
+        <input type="text" name="name" placeholder="Name" required />
+        <input type="number" name="age" placeholder="Age" required />
+        <input type="email" name="email" placeholder="Email" required />
+        <input type="text" name="phone" placeholder="Phone" required />
+
+        <input type="text" name="city" placeholder="City" required />
+        <input type="text" name="region" placeholder="Region" required />
+        <input type="text" name="country" placeholder="Country" required />
+
+        <label class="checkbox-label">
+          <input type="checkbox" name="isActive" />
+          Active
+        </label>
+
+        <input type="text" name="roles" placeholder="Roles (comma-separated)" required />
+
+        <button type="submit">Register</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+ 
