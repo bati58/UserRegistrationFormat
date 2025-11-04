@@ -16,9 +16,10 @@ A fullstack web application for registering and managing user profiles with role
 
 ## 🖼 Registration Form UI
 
-Attach your screenshot to this path in your repo:
+Attaced  screenshot of registration format👌:
 
-![Registration Form](Screenshot 2025-11-05 000229.png)
+![Registration Form](assets/form-screenshot.png)
+
 
 
 
